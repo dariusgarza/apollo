@@ -1700,7 +1700,7 @@ h1.hidden {
     content: " /"; color:#555;
 }
 
-#menu li a {color:#f9f9f9;}
+#menu ul li a {color:#f9f9f9;}
 
 #menu {background-color:#222; }
 
